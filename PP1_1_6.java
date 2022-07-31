@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
 public class PP1_1_6 {
+    
+    //Siddhi Pandya 21ce086
     public static void main(String[] args) {
         Scanner sc=new Scanner (System.in);
         int a[]=new int [10];

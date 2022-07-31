@@ -1,6 +1,8 @@
 import java.util.Scanner;
 public class Pr1_4_1 {
     public static void main(String[] args) {
+        
+        //Siddhi Pandya 21ce086
         Scanner sc=new Scanner (System.in);
         int count[]=new int[11];
         String a[][]=new String[11][11];
